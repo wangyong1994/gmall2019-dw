@@ -11,6 +11,7 @@
     <modules>
         <module>dw-common</module>
         <module>dw-mocker</module>
+        <module>dw-logger</module>
     </modules>
 
 
